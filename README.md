@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Deivid Barreto
 
-- 🌱 Aprendendo Angular JS
+- 🌱 Aprendendo Angular JS e C++
 - 📫 Contate-me no email: deividbarreto57@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deividb2&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
